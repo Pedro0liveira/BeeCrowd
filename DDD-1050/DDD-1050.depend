@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746456231 source:c:\beecrowd\ddd-1050\main.cpp
+	<iostream>
+	<string>
+
