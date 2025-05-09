@@ -13,6 +13,6 @@ int main()
             positives++;
         }
     }
-    cout << positives << "valores positivos" << endl;
+    cout << positives << " valores positivos" << endl;
     return 0;
 }
