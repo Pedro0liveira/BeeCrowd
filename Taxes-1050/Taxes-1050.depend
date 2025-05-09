@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746688795 source:c:\beecrowd\taxes-1050\main.cpp
+	<iostream>
+	<iomanip>
+
