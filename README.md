@@ -4,7 +4,7 @@ Este repositório contém soluções para exercícios da plataforma [Beecrowd](h
 
 ## 🎯 Objetivo
 
-Publicar soluções comentadas e organizadas para os exercícios disponíveis no Beecrowd, com o intuito de:
+Publicar soluções para os exercícios disponíveis no Beecrowd, com o intuito de:
 
 - Auxiliar no aprendizado de programação;
 - Servir como material de consulta para estudantes;
