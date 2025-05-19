@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746882648 source:c:\beecrowd\eventtime-1061\main.cpp
+	<iostream>
+	<string>
+
