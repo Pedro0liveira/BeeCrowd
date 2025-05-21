@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747841367 source:c:\beecrowd\positivesandaverage-1064\main.cpp
+	<iostream>
+	<iomanip>
+
